@@ -2,9 +2,10 @@
 Proyecto final Juego
 
 Equipo 15:
-Integrante: Oscar Alexander Sepulveda Padilla 
-Capitulo escogido: 17-25 Saga: 21° Torneo de las Artes Marciales
 
+Integrante: Oscar Alexander Sepulveda Padilla
+
+Capitulo escogido: 17-25 Saga: 21° Torneo de las Artes Marciales
 
 
 Nivel 1: Laberinto 
