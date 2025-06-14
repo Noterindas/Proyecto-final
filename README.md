@@ -14,4 +14,3 @@ Goku debe buscar una manera para cruzar el laberinto y superar los diversos obst
 
 Nivel 2:
 Luego de completar su entrenamiento Goku se enfrenta a Nam para poder clasificarse a la final de torneo de las artes marciales.
-
